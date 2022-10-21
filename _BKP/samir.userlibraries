@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="ApacheCommonsBeanUtils1.9.4" systemlibrary="false">
+        <archive path="D:/java-libs/commons-beanutils-1.9.4/commons-beanutils-1.9.4.jar"/>
+        <archive path="D:/java-libs/commons-beanutils-1.9.4/commons-beanutils-1.9.4-javadoc.jar"/>
+        <archive path="D:/java-libs/commons-beanutils-1.9.4/commons-beanutils-1.9.4-sources.jar"/>
+        <archive path="D:/java-libs/commons-beanutils-1.9.4/commons-beanutils-1.9.4-tests.jar"/>
+        <archive path="D:/java-libs/commons-beanutils-1.9.4/commons-beanutils-1.9.4-test-sources.jar"/>
+    </library>
+    <library name="ApacheCommonsCollections4.4" systemlibrary="false">
+        <archive path="D:/java-libs/commons-collections4-4.4/commons-collections4-4.4.jar"/>
+        <archive path="D:/java-libs/commons-collections4-4.4/commons-collections4-4.4-javadoc.jar"/>
+        <archive path="D:/java-libs/commons-collections4-4.4/commons-collections4-4.4-sources.jar"/>
+        <archive path="D:/java-libs/commons-collections4-4.4/commons-collections4-4.4-tests.jar"/>
+        <archive path="D:/java-libs/commons-collections4-4.4/commons-collections4-4.4-test-sources.jar"/>
+    </library>
+    <library name="ApacheCommonsDigester2.1" systemlibrary="false">
+        <archive path="D:/java-libs/commons-digester-2.1/commons-digester-2.1.jar"/>
+        <archive path="D:/java-libs/commons-digester-2.1/commons-digester-2.1-javadoc.jar"/>
+        <archive path="D:/java-libs/commons-digester-2.1/commons-digester-2.1-sources.jar"/>
+    </library>
+    <library name="ApacheCommonsDigester3.2" systemlibrary="false">
+        <archive path="D:/java-libs/commons-digester3-3.2/commons-digester3-3.2.jar"/>
+        <archive path="D:/java-libs/commons-digester3-3.2/commons-digester3-3.2-javadoc.jar"/>
+        <archive path="D:/java-libs/commons-digester3-3.2/commons-digester3-3.2-sources.jar"/>
+        <archive path="D:/java-libs/commons-digester3-3.2/commons-digester3-3.2-with-deps.jar"/>
+    </library>
+    <library name="ApacheCommonsLoggin" systemlibrary="false">
+        <archive path="D:/java-libs/commons-logging-1.2/commons-logging-1.2.jar"/>
+        <archive path="D:/java-libs/commons-logging-1.2/commons-logging-1.2-javadoc.jar"/>
+    </library>
+    <library name="ECJ" systemlibrary="false">
+        <archive path="D:/java-libs/ecj 4.5.1/ecj-4.5.1.jar"/>
+        <archive path="D:/java-libs/ecj 4.5.1/ecj-4.5.1-javadoc.jar"/>
+        <archive path="D:/java-libs/ecj 4.5.1/ecj-4.5.1-sources.jar"/>
+    </library>
+    <library name="itext_2.1.7" systemlibrary="false">
+        <archive path="D:/java-libs/itext2.17/itext-2.1.7.jar"/>
+        <archive path="D:/java-libs/itext2.17/itext-2.1.7-javadoc.jar"/>
+        <archive path="D:/java-libs/itext2.17/itext-2.1.7-sources.jar"/>
+    </library>
+    <library name="iText7-Core-7.2.2" systemlibrary="false">
+        <archive path="D:/java-libs/iText7-Core-7.2.2-only-jars/barcodes-7.2.2.jar"/>
+        <archive path="D:/java-libs/iText7-Core-7.2.2-only-jars/commons-7.2.2.jar"/>
+        <archive path="D:/java-libs/iText7-Core-7.2.2-only-jars/font-asian-7.2.2.jar"/>
+        <archive path="D:/java-libs/iText7-Core-7.2.2-only-jars/forms-7.2.2.jar"/>
+        <archive path="D:/java-libs/iText7-Core-7.2.2-only-jars/hyph-7.2.2.jar"/>
+        <archive path="D:/java-libs/iText7-Core-7.2.2-only-jars/io-7.2.2.jar"/>
+        <archive path="D:/java-libs/iText7-Core-7.2.2-only-jars/kernel-7.2.2.jar"/>
+        <archive path="D:/java-libs/iText7-Core-7.2.2-only-jars/layout-7.2.2.jar"/>
+        <archive path="D:/java-libs/iText7-Core-7.2.2-only-jars/pdfa-7.2.2.jar"/>
+        <archive path="D:/java-libs/iText7-Core-7.2.2-only-jars/pdftest-7.2.2.jar"/>
+        <archive path="D:/java-libs/iText7-Core-7.2.2-only-jars/sign-7.2.2.jar"/>
+        <archive path="D:/java-libs/iText7-Core-7.2.2-only-jars/styled-xml-parser-7.2.2.jar"/>
+        <archive path="D:/java-libs/iText7-Core-7.2.2-only-jars/svg-7.2.2.jar"/>
+    </library>
+    <library name="Java15" systemlibrary="false">
+        <archive path="D:/java-libs/javafx-sdk-15.0.1/lib/javafx.base.jar"/>
+        <archive path="D:/java-libs/javafx-sdk-15.0.1/lib/javafx.controls.jar"/>
+        <archive path="D:/java-libs/javafx-sdk-15.0.1/lib/javafx.fxml.jar"/>
+        <archive path="D:/java-libs/javafx-sdk-15.0.1/lib/javafx.graphics.jar"/>
+        <archive path="D:/java-libs/javafx-sdk-15.0.1/lib/javafx.media.jar"/>
+        <archive path="D:/java-libs/javafx-sdk-15.0.1/lib/javafx.swing.jar"/>
+        <archive path="D:/java-libs/javafx-sdk-15.0.1/lib/javafx.web.jar"/>
+        <archive path="D:/java-libs/javafx-sdk-15.0.1/lib/javafx-swt.jar"/>
+    </library>
+    <library name="Java-17.02" systemlibrary="false">
+        <archive path="D:/java-libs/javafx-sdk-17.0.2/lib/javafx.base.jar"/>
+        <archive path="D:/java-libs/javafx-sdk-17.0.2/lib/javafx.controls.jar"/>
+        <archive path="D:/java-libs/javafx-sdk-17.0.2/lib/javafx.fxml.jar"/>
+        <archive path="D:/java-libs/javafx-sdk-17.0.2/lib/javafx.graphics.jar"/>
+        <archive path="D:/java-libs/javafx-sdk-17.0.2/lib/javafx.media.jar"/>
+        <archive path="D:/java-libs/javafx-sdk-17.0.2/lib/javafx.swing.jar"/>
+        <archive path="D:/java-libs/javafx-sdk-17.0.2/lib/javafx.web.jar"/>
+        <archive path="D:/java-libs/javafx-sdk-17.0.2/lib/javafx-swt.jar"/>
+    </library>
+    <library name="Joda2.10.14" systemlibrary="false">
+        <archive path="D:/java-libs/joda-time-2.10.14/joda-time-2.10.14.jar"/>
+        <archive path="D:/java-libs/joda-time-2.10.14/joda-time-2.10.14-javadoc.jar"/>
+        <archive path="D:/java-libs/joda-time-2.10.14/joda-time-2.10.14-no-tzdb.jar"/>
+        <archive path="D:/java-libs/joda-time-2.10.14/joda-time-2.10.14-no-tzdb-sources.jar"/>
+        <archive path="D:/java-libs/joda-time-2.10.14/joda-time-2.10.14-sources.jar"/>
+    </library>
+    <library name="Lompom" systemlibrary="false">
+        <archive path="D:/java-libs/lombook1.18.24/lombok.jar"/>
+    </library>
+    <library name="MySQL_8-0-27" systemlibrary="false">
+        <archive path="D:/java-libs/mysql-connector-java-8.0.27/mysql-connector-java-8.0.27.jar"/>
+    </library>
+    <library name="MySQL_8-0-28" systemlibrary="false">
+        <archive path="D:/java-libs/mysql-connector-java-8.0.28/mysql-connector-java-8.0.28.jar"/>
+    </library>
+    <library name="Spring5.3.9" systemlibrary="false">
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-aop-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-aop-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-aop-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-aspects-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-aspects-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-aspects-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-beans-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-beans-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-beans-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-context-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-context-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-context-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-context-indexer-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-context-indexer-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-context-indexer-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-context-support-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-context-support-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-context-support-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-core-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-core-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-core-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-expression-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-expression-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-expression-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-instrument-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-instrument-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-instrument-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-jcl-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-jcl-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-jcl-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-jdbc-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-jdbc-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-jdbc-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-jms-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-jms-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-jms-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-messaging-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-messaging-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-messaging-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-orm-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-orm-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-orm-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-oxm-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-oxm-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-oxm-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-r2dbc-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-r2dbc-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-r2dbc-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-test-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-test-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-test-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-tx-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-tx-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-tx-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-web-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-web-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-web-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-webflux-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-webflux-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-webflux-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-webmvc-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-webmvc-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-webmvc-5.3.9-sources.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-websocket-5.3.9.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-websocket-5.3.9-javadoc.jar"/>
+        <archive path="D:/java-libs/spring-framework-5.3.9/libs/spring-websocket-5.3.9-sources.jar"/>
+    </library>
+</eclipse-userlibraries>
